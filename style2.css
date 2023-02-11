@@ -231,7 +231,8 @@ body #topNav a:hover {
     flex-wrap: wrap;
 }
 .project-slot{
-    width: 50%;;
+    width: 50%;
+    margin-top: 50px;
 }
 .image-container{
     position: relative; 
